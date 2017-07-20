@@ -1,1 +1,2 @@
-# files
+// Virtual Keyboard Enabled:
+"VirtualKeyboardEnabled": true,
